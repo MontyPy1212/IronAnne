@@ -181,6 +181,19 @@ WHERE
 GROUP BY type
 ORDER BY type;
 			## if clause is introducing a new column so no need for "type"
+#OR 
+SELECT 
+    account_id,
+    IF(type = 'PRIJEM',
+        'INCOMING',
+        'OUTGOING') AS transaction_type,
+    FLOOR(SUM(amount)) AS total_amount
+FROM
+    trans
+WHERE
+    account_id = 396
+GROUP BY 1 , 2
+ORDER BY 2; 
             
 #20 From the previous result, modify your query so that it returns only one row, with a column for incoming amount, outgoing amount and the difference.
 SELECT 
@@ -210,7 +223,31 @@ FROM
 GROUP BY account_id;
 
 #21 Continuing with the previous example, rank the top 10 account_ids based on their difference.
-
+SELECT 
+    account_id,
+    SUM(CASE
+        WHEN transaction_type = 'INCOMING' THEN total_amount
+    END) AS incoming,
+    SUM(CASE
+        WHEN transaction_type = 'OUTGOING' THEN total_amount
+    END) AS outgoing,
+    (SUM(CASE
+        WHEN transaction_type = 'INCOMING' THEN total_amount
+    END) - SUM(CASE
+        WHEN transaction_type = 'OUTGOING' THEN total_amount
+    END)) AS balance
+FROM
+    (SELECT 
+        account_id,
+            IF(type = 'PRIJEM', 'INCOMING', 'OUTGOING') AS transaction_type,
+            FLOOR(SUM(amount)) AS total_amount
+    FROM
+        bank.trans) AS table_b
+   # WHERE
+    #    account_id = 396
+   # GROUP BY type
+   # ORDER BY type) AS table_b
+#GROUP BY account_id;
 #-------------------------------------------------
 #Lecture
 	#select *, amount - payments as balance from bank.loan;
@@ -223,3 +260,9 @@ GROUP BY account_id;
     
 	#select * from bank.loan where A2 in ("Benesov", "Beroun") and amount <> 100000;
 	#select max(amount) as max, min(amount) as min from bank.order; 
+    
+	#SELECT * FROM bank.district
+	#WHERE A3 LIKE "north%";
+
+	#SELECT * FROM bank.district
+	#WHERE A3 LIKE "north_M%";
