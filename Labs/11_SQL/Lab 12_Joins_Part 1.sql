@@ -129,9 +129,31 @@ LIMIT 1;
 
 ## Part 2 
 #2.1 Write a query to display for each store its store ID, city, and country.
-
+SELECT 
+    s.store_id,
+    i.city, 
+    c.country
+FROM
+    country c
+        INNER JOIN
+    city i ON c.country_id = i.country_id
+        INNER JOIN
+    address a ON i.city_id = a.city_id
+		INNER JOIN 
+	store s ON a.address_id = s.address_id
+GROUP BY s.store_id; 
 
 #2.2 Write a query to display how much business, in dollars, each store brought in.
+SELECT 
+    s.store_id,
+    sum(p.amount) as revenue_in_USD
+FROM
+    store s
+        INNER JOIN
+    staff a ON s.store_id = a.store_id
+        INNER JOIN
+    payment p ON a.staff_id = p.staff_id
+GROUP BY s.store_id; 
 
 #2.3 What is the average running time of films by category?
 
