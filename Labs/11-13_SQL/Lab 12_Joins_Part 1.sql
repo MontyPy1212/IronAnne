@@ -156,11 +156,106 @@ FROM
 GROUP BY s.store_id; 
 
 #2.3 What is the average running time of films by category?
+SELECT 
+    category.name AS category,
+    AVG(f.length) AS 'avg running time (in min)'
+FROM
+    category
+        INNER JOIN
+    film_category ON category.category_id = film_category.category_id
+        INNER JOIN
+    film f ON film_category.film_id = f.film_id
+GROUP BY category.category_id
+ORDER BY AVG(f.length);
 
 #2.4 Which film categories are longest?
+SELECT 
+    category.name AS category,
+    AVG(f.length) AS 'Top 3 - longest film categories'
+FROM
+    category
+        INNER JOIN
+    film_category ON category.category_id = film_category.category_id
+        INNER JOIN
+    film f ON film_category.film_id = f.film_id
+GROUP BY category.category_id
+ORDER BY AVG(f.length) DESC
+LIMIT 3;
 
 #2.5 Display the most frequently rented movies in descending order.
+#repetititive question 
+
+SELECT 
+    f.title, COUNT(r.rental_id) AS rental_freq
+FROM
+    film f
+        INNER JOIN
+    inventory i ON f.film_id = i.film_id
+        INNER JOIN
+    rental r ON i.inventory_id = r.inventory_id
+        INNER JOIN
+    customer c ON r.customer_id = c.customer_id
+GROUP BY f.title
+ORDER BY rental_freq DESC;
 
 #2.6 List the top five genres in gross revenue in descending order.
+select * from sales_by_film_category
+limit 5; 
 
 #2.7 Is "Academy Dinosaur" available for rent from Store 1?
+SELECT 
+    film.title,
+    store.store_id,
+    count(inventory.inventory_id)
+FROM
+    inventory
+        JOIN
+    store USING (store_id)
+        JOIN
+    film USING (film_id)
+WHERE
+    film.title = 'Academy Dinosaur'
+        AND store.store_id = 1
+group by film.title;
+
+/* SOLUTIONS
+
+```sql
+-- 1 number of films per category
+select name as category_name, count(*) as num_films
+from sakila.category
+inner join sakila.film_category
+using (category_id)
+group by name
+order by num_films desc;
+
+-- 2 display the first and last names, as well as the address, of each staff member
+select staff.first_name, staff.last_name, address.address
+from sakila.address
+inner join sakila.staff
+on staff.address_id = address.address_id;
+
+-- 3 display the total amount rung up by each staff member in August of 2005
+select s.staff_id, concat(s.first_name,' ',s.last_name) as employee, sum(p.amount) as `total amount`
+from sakila.staff as s
+inner join sakila.payment as p
+on s.staff_id = p.staff_id
+where month(p.payment_date) = 8 and year(p.payment_date) = 2005
+group by s.staff_id;
+
+-- 4 List each film and the number of actors who are listed for that film
+select title as `film title`, count(actor_id) as `number of actors`
+from sakila.film
+inner join sakila.film_actor
+on film.film_id = film_actor.film_id
+group by film.film_id;
+
+-- 5 list the total paid by each customer
+select first_name, last_name, sum(amount) as "total amount paid"
+from sakila.customer
+inner join sakila.payment
+on customer.customer_id = payment.customer_id
+group by customer.customer_id
+order by last_name;
+
+*/
