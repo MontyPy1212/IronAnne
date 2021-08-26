@@ -30,7 +30,7 @@ ORDER BY film_id ASC;
 #1.2 Which actor has appeared in the most films?
 #INNER JOIN
 	#Q How can I display only the max value? 
-    #Q Why are all actors' name mixed up? 
+    #Q Why are all actors' names mixed up? 
 SELECT 
 	actor.actor_id,
     actor.first_name,
