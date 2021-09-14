@@ -1,0 +1,601 @@
+,Rank,Song Title,Song Artist,Year,Genre
+0,1,That's Amore,Dean Martin,1953,Oldies
+1,2,Come Fly With Me,Frank Sinatra,1958,Oldies
+2,3,Jailhouse Rock,Elvis Presley,1957,Oldies
+3,4,I Walk The Line,Johnny Cash,1956,Country
+4,5,I've Got You Under My Skin,Frank Sinatra,1953,Oldies
+5,6,In the Mood,Glenn Miller,1955,Jazz
+6,7,All Shook Up,Elvis Presley,1957,Oldies
+7,8,La Bamba,Ritchie Valens,1958,Oldies
+8,9,You Make Me Feel So Young,Frank Sinatra,1953,Ballad
+9,10,Great Balls Of Fire,Jerry Lee Lewis,1957,Country
+10,11,Love Me Tender,Elvis Presley,1956,Oldies
+11,12,Johnny B. Goode,Chuck Berry,1958,Oldies
+12,13,Rock Around The Clock,Bill Haley & His Comets,1956,Oldies
+13,14,When I Fall In Love,Nat King Cole,1956,Ballad
+14,15,Mack The Knife,Bobby Darin,1959,Oldies
+15,16,Hound Dog,Elvis Presley,1956,Oldies
+16,17,You Send Me,Sam Cooke,1957,Oldies
+17,18,I Get a Kick Out of You,Frank Sinatra,1953,Ballad
+18,19,Earth Angel (Will You Be Mine),Penguins,1955,Oldies
+19,20,In The Still Of The Night,Five Satins,1956,Oldies
+20,21,Blue Suede Shoes,Elvis Presley,1956,Oldies
+21,22,I Only Have Eyes For You,Flamingos,1959,Ballad
+22,23,Tequila,Champs,1958,Oldies
+23,24,Only You (And You Alone),Platters,1955,Ballad
+24,25,Our Love Is Here To Stay,Frank Sinatra,1955,Ballad
+25,26,Walkin' After Midnight,Patsy Cline,1957,Oldies
+26,27,Rockin' Robin,Bobby Day,1958,Swing
+27,28,Chantilly Lace,Big Bopper,1958,Oldies
+28,29,(We're Gonna) Rock Around The Clock,Bill Haley & His Comets,1955,Oldies
+29,30,At The Hop,Danny & The Juniors,1958,Oldies
+30,31,Let's Do It (Lets Fall in Love),Ella Fitzgerald,1956,Ballad
+31,32,All The Way,Frank Sinatra,1953,Ballad
+32,33,Dream Lover,Bobby Darin,1959,Oldies
+33,34,Chances Are,Johnny Mathis,1957,Oldies
+34,35,Peggy Sue,Buddy Holly,1957,Oldies
+35,36,Tutti-Frutti,Little Richard,1956,Oldies
+36,37,Don't Be Cruel,Elvis Presley,1956,Oldies
+37,38,Put Your Head On My Shoulder,Paul Anka,1959,Oldies
+38,39,I'll Be Seeing You,Billie Holiday,1954,Blues
+39,40,Smoke Gets In Your Eyes,Platters,1958,Oldies
+40,41,Volare,Dean Martin,1958,Oldies
+41,42,They Can't Take That Away From Me,Frank Sinatra,1955,Ballad
+42,43,Memories Are Made Of This,Dean Martin,1956,Oldies
+43,44,Mona Lisa,Nat King Cole,1950,Oldies
+44,45,All I Have To Do Is Dream,Everly Brothers,1958,Oldies
+45,46,Wake Up Little Susie,Everly Brothers,1957,Oldies
+46,47,(Let Me Be Your) Teddy Bear,Elvis Presley,1957,Oldies
+47,48,Banana Boat (Day-O),Harry Belafonte,1956,Easy Listening
+48,49,Night And Day,Frank Sinatra,1957,Ballad
+49,50,Yakety Yak,Coasters,1958,Oldies
+50,51,What'd I Say (Part 1),Ray Charles,1959,Oldies
+51,52,Little Bitty Pretty One,Thurston Harris,1957,Oldies
+52,53,Whole Lotta Shakin' Going On,Jerry Lee Lewis,1957,Country
+53,54,Why Do Fools Fall In Love,Frankie Lymon & The Teenagers,1956,Oldies
+54,55,Everyday,Buddy Holly,1957,Oldies
+55,56,My Funny Valentine,Frank Sinatra,1955,Ballad
+56,57,That'll Be The Day,Buddy Holly & The Crickets,1957,Oldies
+57,58,Blueberry Hill,Fats Domino,1957,Oldies
+58,59,Splish Splash,Bobby Darin,1958,Oldies
+59,60,Miss Molly Good Golly,Little Richard,1958,Oldies
+60,61,Always,Ella Fitzgerald,1956,Ballad
+61,62,Love Is Here To Stay,Frank Sinatra,1955,Ballad
+62,63,Come Go With Me,Dell-Vikings,1957,Oldies
+63,64,Misty,Johnny Mathis,1959,Oldies
+64,65,Sea Of Love,Phil Phillips,1959,Oldies
+65,66,The Stroll,Diamonds,1958,Oldies
+66,67,"Hey, Good Lookin'","Hank Williams, Sr.",1951,Country
+67,68,Because Of You,Tony Bennett,1951,Oldies
+68,69,Whoe Wrote The Book Of Love,Monotones,1958,Oldies
+69,70,Earth Angel,Crew-Cuts,1955,Oldies
+70,71,Jambalaya (On The Bayou),Hank Williams,1954,Country
+71,72,There Goes My Baby,Drifters,1959,Oldies
+72,73,The Man I Love,Billie Holiday,1956,Ballad
+73,74,16 Candles,Crests,1958,Oldies
+74,75,Do You Want To Dance,Bobby Freeman,1958,Oldies
+75,76,Ain't That A Shame,Fats Domino,1955,Oldies
+76,77,Heartbreak Hotel,Elvis Presley,1956,Oldies
+77,78,The Purple People Eater,Sheb Wooley,1958,Oldies
+78,79,Return To Me,Dean Martin,1958,Oldies
+79,80,Rock 'N' Roll Music,Chuck Berry,1957,Oldies
+80,81,The Twelfth Of Never,Johnny Mathis,1957,Oldies
+81,82,True Love Ways,Buddy Holly,1958,Oldies
+82,83,Twilight Time,Platters,1958,Oldies
+83,84,The Great Pretender,Platters,1956,Oldies
+84,85,The Hawaiian Wedding Song (Ke Kali Nei Au),Andy Williams,1959,Oldies
+85,86,Too Marvelous For Words,Frank Sinatra,1955,Ballad
+86,87,White Lightning,George Jones,1959,Country
+87,88,A Teenager In Love,Dion & The Belmonts,1958,Oldies
+88,89,Maybelline,Chuck Berry,1955,Oldies
+89,90,I Wish You Love,Dean Martin,1959,Ballad
+90,91,Little Darlin',Diamonds,1957,Oldies
+91,92,Rock And Roll Is Here To Stay,Danny & The Juniors,1958,Oldies
+92,93,The Tennessee Waltz,Patti Page,1950,Oldies
+93,94,It's Only Make Believe,Conway Twitty,1958,Oldies
+94,95,Too Marvelous for Words,Ella Fitzgerald,1956,Oldies
+95,96,Loving You,Elvis Presley,1957,Ballad
+96,97,My Prayer,Platters,1956,Oldies
+97,98,Sincerely,McGuire Sisters,1955,Oldies
+98,99,Cherry Pink And Apple Blossom White,Perez Prado,1955,Oldies
+99,100,Love Is A Many-Splendored Thing,Four Aces,1955,Oldies
+0,1,Sweet Caroline (Good Times Never Seemed So Good),Neil Diamond,1969,Oldies
+1,2,Shout,Otis Day And The Knights/Isley Brothers,1967,Oldies
+2,3,Brown Eyed Girl,Van Morrison,1967,Oldies
+3,4,The Way You Look Tonight,Frank Sinatra,1964,Ballad
+4,5,Twist And Shout,Beatles,1963,Oldies
+5,6,At Last,Etta James,1961,Oldies
+6,7,What A Wonderful World,Louis Armstrong,1967,Ballad
+7,8,My Girl,Temptations,1965,Oldies
+8,9,Can't Help Falling In Love,Elvis Presley With The Jordanaires,1961,Ballad
+9,10,The Twist,Chubby Checker,1960,Oldies
+10,11,Build Me Up Buttercup,Foundations,1968,Oldies
+11,12,Unchained Melody,Righteous Brothers,1965,Oldies
+12,13,Stand By Me,Ben E. King,1961,Oldies
+13,14,Fly Me To The Moon,Frank Sinatra,1964,Big Band
+14,15,"I Can't Help Myself (Sugar Pie, Honey Bunch)",Four Tops,1965,Oldies
+15,16,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,1967,Oldies
+16,17,All You Need Is Love,Beatles,1967,Oldies
+17,18,Ring Of Fire,Johnny Cash,1963,Oldies
+18,19,(Sittin' On) The Dock Of The Bay,Otis Redding,1968,Oldies
+19,20,When A Man Loves A Woman,Percy Sledge,1966,Oldies
+20,21,Respect,Aretha Franklin,1967,Oldies
+21,22,Wouldn't It Be Nice,Beach Boys,1966,Oldies
+22,23,Mustang Sally,Wilson Pickett,1966,Oldies
+23,24,L-O-V-E,Nat King Cole,1964,Ballad
+24,25,Can't Take My Eyes Off You,Frankie Valli,1967,Oldies
+25,26,Runaround Sue,Dion,1961,Oldies
+26,27,Proud Mary,Creedence Clearwater Revival,1969,Oldies
+27,28,Ain't Too Proud To Beg,Temptations,1966,Oldies
+28,29,Twist And Shout,Isley Brothers,1962,Oldies
+29,30,In My Life,Beatles,1965,Oldies
+30,31,"Oh, Pretty Woman",Roy Orbison & Candy Men,1964,Oldies
+31,32,"New York, New York",Frank Sinatra,1962,Oldies
+32,33,It Had To Be You,"Harry Connick Jr,",1962,Oldies
+33,34,How Sweet It Is To Be Loved By You,Marvin Gaye,1964,Oldies
+34,35,I Want You Back,Jackson 5,1969,Oldies
+35,36,Sugar Sugar,The Archies,1969,Oldies
+36,37,Do You Love Me,Contours,1962,Oldies
+37,38,I Want To Hold Your Hand,Beatles,1964,Oldies
+38,39,I Saw Her Standing There,Beatles,1964,Oldies
+39,40,I Got You Babe,Sonny & Cher,1965,Oldies
+40,41,I Got You (I Feel Good),James Brown,1965,Oldies
+41,42,Let's Twist Again,Chubby Checker,1961,Oldies
+42,43,Happy Together,Turtles,1967,Oldies
+43,44,For Once In My Life,Stevie Wonder,1968,Oldies
+44,45,Here Comes The Sun,Beatles,1969,Alternative
+45,46,(I Can't Get No) Satisfaction,Rolling Stones,1965,Oldies
+46,47,Save The Last Dance For Me,Drifters With Ben E. King,1960,Oldies
+47,48,Crazy,Patsy Cline,1961,Country
+48,49,God Only Knows,Beach Boys,1966,Oldies
+49,50,When I'm Sixty-Four,Beatles,1967,Oldies
+50,51,Beyond The Sea,Bobby Darin,1960,Oldies
+51,52,With A Little Help From My Friends,Beatles,1967,Oldies
+52,53,Ain't That a Kick in the Head?,Dean Martin,1964,None
+53,54,Love and Marriage,Frank Sinatra,1969,Oldies
+54,55,I'm A Believer,Monkees,1966,Oldies
+55,56,Summer Wind,Frank Sinatra,1966,Oldies
+56,57,The Way You Do The Things You Do,Temptations,1964,Oldies
+57,58,Baby I Need Your Loving,Four Tops,1964,Oldies
+58,59,Hey Jude,Beatles,1968,Oldies
+59,60,Twistin' The Night Away,Sam Cooke,1962,Oldies
+60,61,Bad Moon Rising,Creedence Clearwater Revival,1969,Oldies
+61,62,Something,Beatles,1969,Oldies
+62,63,Luck Be A Lady,Frank Sinatra,1965,Oldies
+63,64,Good Vibrations,Beach Boys,1966,Oldies
+64,65,Jackson,Johnny Cash & June Carter,1967,Country
+65,66,Chapel Of Love,Dixie Cups,1964,Oldies
+66,67,Under The Boardwalk,Drifters,1964,Oldies
+67,68,You've Lost That Lovin' Feelin',Righteous Brothers,1964,Oldies
+68,69,These Arms Of Mine,Otis Redding,1963,Oldies
+69,70,(Your Love Keeps Lifting Me) Higher And Higher,Jackie Wilson,1967,Oldies
+70,71,Dance To The Music,Sly & Family Stone,1968,Oldies
+71,72,Hang On Sloopy,McCoys,1965,Oldies
+72,73,Mony Mony,Tommy James & Shondells,1968,Oldies
+73,74,Magic Carpet Ride,Steppenwolf,1968,Oldies
+74,75,Louie Louie,Kingsmen,1963,Oldies
+75,76,Can't Buy Me Love,Beatles,1964,Oldies
+76,77,Suspicious Minds,Elvis Presley,1969,Oldies
+77,78,Ob-La-Da Ob-La-Di,Beatles,1968,Oldies
+78,79,Love Me Do,Beatles,1964,Oldies
+79,80,Moon River,Andy Williams,1962,Ballad
+80,81,It's Not Unusual,Tom Jones,1965,Oldies
+81,82,Folsom Prison Blues,Johnny Cash,1968,Oldies
+82,83,I Heard It Through The Grapevine,Marvin Gaye,1968,Oldies
+83,84,Georgia On My Mind,Ray Charles,1960,Oldies
+84,85,I Say A Little Prayer,Aretha Franklin,1968,Oldies
+85,86,Eight Days A Week,Beatles,1965,Oldies
+86,87,Then He Kissed Me,Crystals,1963,Oldies
+87,88,And I Love Her,Beatles,1964,Ballad
+88,89,Come Together,Beatles,1969,Oldies
+89,90,Honky Tonk Women,Rolling Stones,1969,Oldies
+90,91,Everybody Loves Somebody,Dean Martin,1964,Oldies
+91,92,Stop! In The Name Of Love,Supremes,1965,Oldies
+92,93,Barbara Ann,Beach Boys,1966,Oldies
+93,94,California Girls,Beach Boys,1965,Oldies
+94,95,All My Loving,Beatles,1964,Oldies
+95,96,Born To Be Wild,Steppenwolf,1968,Oldies
+96,97,Down On The Corner/Fortunate Son,Creedence Clearwater Revival,1969,Oldies
+97,98,This Magic Moment,Drifters,1960,Oldies
+98,99,My Cherie Amour,Stevie Wonder,1969,Oldies
+99,100,Chain Of Fools,Aretha Franklin,1967,Oldies
+0,1,Wonderful Tonight,Eric Clapton,1978,Ballad
+1,2,YMCA,Village People,1975,Disco
+2,3,Sweet Home Alabama,Lynyrd Skynyrd,1974,Rock
+3,4,We Are Family,Sister Sledge,1979,Popular
+4,5,Old Time Rock & Roll,Bob Seger & The Silver Bullet Band,1978,Rock
+5,6,Don't Stop 'Til You Get Enough,Michael Jackson,1979,Popular
+6,7,Dancing Queen,ABBA,1976,Disco
+7,8,Brick House,Commodores,1977,Disco
+8,9,Play That Funky Music,Wild Cherry,1976,Funk
+9,10,How Sweet It Is (To Be Loved By You),James Taylor,1975,Popular
+10,11,September,"Earth, Wind & Fire",1978,Disco
+11,12,Stayin' Alive,Bee Gees,1978,Disco
+12,13,Let's Stay Together,Al Green,1972,R&B
+13,14,Piano Man,Billy Joel,1974,Ballad
+14,15,Signed Sealed Delivered,Stevie Wonder,1970,Oldies
+15,16,Get Down Tonight,KC & The Sunshine Band,1975,Disco
+16,17,I Want You To Want Me,Cheap Trick,1979,Rock
+17,18,Margaritaville,Jimmy Buffett,1977,Popular
+18,19,ABC,Jackson 5,1970,Oldies
+19,20,I Will Survive,Gloria Gaynor,1979,Disco
+20,21,Let's Get It On,Marvin Gaye,1973,R&B
+21,22,Bennie And The Jets,Elton John,1974,Oldies
+22,23,Bohemian Rhapsody,Queen,1975,Oldies
+23,24,Isn't She Lovely,Stevie Wonder,1976,Country
+24,25,Simple Man,Lynyrd Skynyrd,1973,Rock
+25,26,Hotel California,Eagles,1977,Rock
+26,27,"December 1963 (Oh, What A Night)",Four Seasons,1976,Oldies
+27,28,Walk This Way,Aerosmith,1976,Rock
+28,29,American Girl,Tom Petty & Heartbreakers,1976,Rock
+29,30,Fat Bottomed Girls,Queen,1978,Alternative
+30,31,Last Dance,Donna Summer,1978,Disco
+31,32,"You're the First, the Last, My Everything",Barry White,1975,R&B
+32,33,Shake Your Booty,KC & The Sunshine Band,1976,Disco
+33,34,You're The One That I Want,John Travolta & Olivia Newton,1978,Popular
+34,35,"Can't Get Enough Of Your Love, Babe",Barry White,1974,R&B
+35,36,Is This Love?,Bob Marley & The Wailers,1978,Reggae
+36,37,Your Song,Elton John,1971,Ballad
+37,38,This Will Be (An Everlasting Love),Natalie Cole,1975,Oldies
+38,39,Love And Happiness,Al Green,1972,Rock
+39,40,You're My Best Friend,Queen,1976,Oldies
+40,41,Family Tradition,"Hank Williams, Jr.",1979,Country
+41,42,Superstition,Stevie Wonder,1973,Oldies
+42,43,Into The Mystic,Van Morrison,1970,Oldies
+43,44,Tiny Dancer,Elton John,1972,Oldies
+44,45,More Than A Feeling,Boston,1976,Oldies
+45,46,Chicken Dance,Various,1977,Other
+46,47,Paradise By The Dashboard Light,Meat Loaf,1978,Oldies
+47,48,Just The Way You Are,Billy Joel,1978,Ballad
+48,49,The Devil Went Down To Georgia,Charlie Daniels Band,1979,Country
+49,50,Moondance,Van Morrison,1970,Popular
+50,51,Boogie Shoes,KC & The Sunshine Band,1977,Popular
+51,52,Crazy Love,Van Morrison,1970,Oldies
+52,53,American Pie,Don McLean,1972,Oldies
+53,54,Black Betty,Ram Jam,1977,Oldies
+54,55,Landslide,Fleetwood Mac,1975,Ballad
+55,56,The Joker,Steve Miller Band,1973,Rock
+56,57,You Are The Sunshine Of My Life,Stevie Wonder,1973,Oldies
+57,58,Dancing In The Moonlight,King Harvest,1972,Oldies
+58,59,Get Up Off Of That Thing,James Brown,1977,R&B
+59,60,Cecilia,Simon & Garfunkel,1970,Oldies
+60,61,Three Little Birds,Bob Marley & The Wailers,1977,Reggae
+61,62,You Should Be Dancing,Bee Gees,1976,Oldies
+62,63,You Are So Beautiful,Joe Cocker,1975,Ballad
+63,64,Crocodile Rock,Elton John,1973,Oldies
+64,65,You Sexy Thing,Hot Chocolate,1976,Popular
+65,66,Maybe I'm Amazed,Paul McCartney,1970,Rock
+66,67,Rock The Boat,Hues Corporation,1974,Popular
+67,68,Some Kind of Wonderful,Grand Funk Railroad,1974,Rock
+68,69,Rock And Roll All Nite,Kiss,1975,Alternative
+69,70,Only The Good Die Young,Billy Joel,1978,Rock
+70,71,That's The Way (I Like It),KC & The Sunshine Band,1975,Oldies
+71,72,Got To Give It Up,Marvin Gaye,1977,Oldies
+72,73,Take Me Home Country Roads,John Denver,1971,Country
+73,74,Free Bird,Lynyrd Skynyrd,1974,Oldies
+74,75,Rapper's Delight,Sugarhill Gang,1979,R&B
+75,76,Somebody to Love,Queen,1976,Popular
+76,77,Beast Of Burden,Rolling Stones,1978,Alternative
+77,78,Let It Be,Beatles,1970,Ballad
+78,79,Take A Chance On Me,ABBA,1978,Popular
+79,80,Ain't No Mountain High Enough,Diana Ross,1970,Oldies
+80,81,Night Fever,Bee Gees,1978,Oldies
+81,82,How Deep Is Your Love,Bee Gees,1977,Oldies
+82,83,Ladies Night,Kool & The Gang,1979,Disco
+83,84,Sweet Emotion,Aerosmith,1975,Rock
+84,85,Always And Forever,Heatwave,1978,Ballad
+85,86,Shake Your Groove Thing,Peaches & Herb,1979,Disco
+86,87,New York State Of Mind,Billy Joel,1976,Popular
+87,88,I'll Be There,Jackson 5,1970,Oldies
+88,89,Burning Love,Elvis Presley,1972,Oldies
+89,90,Joy To The World,Three Dog Night,1971,Oldies
+90,91,Lean On Me,Bill Withers,1972,Oldies
+91,92,Rock Lobster,B-52's,1979,Rock
+92,93,Beer Barrel Polka,Bobby Vinton,1975,Polka
+93,94,The Loco-Motion,Grand Funk Railroad,1974,Oldies
+94,95,Jamming,Bob Marley & The Wailers,1977,Reggae
+95,96,Soul Man,Blues Brothers,1979,Rock
+96,97,Born To Run,Bruce Springsteen,1975,Rock
+97,98,My Sharona,Knack,1979,Oldies
+98,99,Gimme Three Steps,Lynyrd Skynyrd,1973,Rock
+99,100,Summer Nights,John Travolta & Olivia Newton,1978,Oldies
+0,1,Don't Stop Believin',Journey,1981,Rock
+1,2,You Shook Me All Night Long,AC/DC,1980,Rock
+2,3,Love Shack,B-52's,1989,Popular
+3,4,Livin' On A Prayer,Bon Jovi,1986,Rock
+4,5,Pour Some Sugar On Me,Def Leppard,1987,Rock
+5,6,Billie Jean,Michael Jackson,1982,Popular
+6,7,Celebration,Kool & The Gang,1980,Disco
+7,8,Footloose,Kenny Loggins,1984,Popular
+8,9,Thriller,Michael Jackson,1982,Popular
+9,10,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,1987,Popular
+10,11,Girls Just Want To Have Fun,Cyndi Lauper,1984,Popular
+11,12,Summer Of 69,Bryan Adams,1984,Rock
+12,13,The Way You Make Me Feel,Michael Jackson,1987,Popular
+13,14,Jessie's Girl,Rick Springfield,1981,Popular
+14,15,(I've Had) The Time Of My Life,Bill Medley & Jennifer Warnes,1987,Ballad
+15,16,Pretty Young Thing (P.Y.T),Michael Jackson,1982,Popular
+16,17,Push It,Salt-N-Pepa,1987,Popular
+17,18,Faithfully,Journey,1983,Ballad
+18,19,Bust A Move,Young M.C.,1989,Popular
+19,20,Crazy Little Thing Called Love,Queen,1980,Popular
+20,21,Beat It,Michael Jackson,1983,Popular
+21,22,Sweet Child O' Mine,Guns N' Roses,1987,Rock
+22,23,Take Me Home Tonight,Eddie Money,1986,Oldies
+23,24,Red Red Wine,UB40,1988,Popular
+24,25,What I Like About You,Romantics,1980,Rock
+25,26,Like A Prayer,Madonna,1989,Popular
+26,27,Kiss,Prince,1986,Popular
+27,28,White Wedding,Billy Idol,1983,Popular
+28,29,I Love Rock 'N Roll,Joan Jett & Blackhearts,1982,Popular
+29,30,Another One Bites The Dust,Queen,1981,Popular
+30,31,Come on Eileen,Dexy's Midnight Runners,1982,Popular
+31,32,Super Freak,Rick James,1981,Popular
+32,33,Mony Mony,Billy Idol,1987,Popular
+33,34,Wild Thing,Tone Loc,1988,Popular
+34,35,It's Tricky,Run-D.M.C.,1986,Popular
+35,36,Sharp Dressed Man,ZZ Top,1983,Rock
+36,37,Take On Me,a-ha,1985,Popular
+37,38,(You Gotta) Fight For Your Right (To Party!),Beastie Boys,1987,Alternative
+38,39,Hit Me With Your Best Shot,Pat Benatar,1980,Alternative
+39,40,Fishin' in the Dark,The Nitty Gritty Dirt Band,1987,Country
+40,41,Smooth Criminal,Michael Jackson,1987,Popular
+41,42,You Spin Me Round (Like A Record),Dead Or Alive,1984,Alternative
+42,43,Rock With You,Michael Jackson,1980,Popular
+43,44,Any Way You Want It,Journey,1980,Rock
+44,45,Copperhead Road,Steve Earle,1988,Popular
+45,46,Walking On Sunshine,Katrina & The Waves,1985,Oldies
+46,47,It Takes Two,Rob Base & D.J. E-Z Rock,1988,Popular
+47,48,You Make My Dreams Come True,Daryl Hall & John Oates,1982,Oldies
+48,49,"Forever And Ever, Amen",Randy Travis,1987,Country
+49,50,The Safety Dance,Men Without Hats,1983,Oldies
+50,51,Open Arms,Journey,1982,Ballad
+51,52,All Night Long (All Night),Lionel Richie,1983,Popular
+52,53,Your Love,Outfield,1985,Popular
+53,54,Blister In The Sun,Violent Femmes,1982,Alternative
+54,55,Jack & Diane,John Cougar,1982,Popular
+55,56,Kokomo,Beach Boys,1988,Popular
+56,57,1999,Prince,1983,Popular
+57,58,Free Fallin',Tom Petty,1989,Rock
+58,59,Funky Cold Medina,Tone Loc,1989,Popular
+59,60,Eye Of The Tiger,Survivor,1982,Oldies
+60,61,Wanna Be Startin' Somethin',Michael Jackson,1983,Popular
+61,62,You Give Love A Bad Name,Bon Jovi,1986,Popular
+62,63,Let's Go Crazy,Prince & The Revolution,1984,Popular
+63,64,Could You Be Loved,Bob Marley & The Wailers,1980,Reggae
+64,65,Get Down On It,Kool & The Gang,1981,Popular
+65,66,Never Gonna Give You Up,Rick Astley,1987,Popular
+66,67,Brass Monkey,Beastie Boys,1986,Alternative
+67,68,Africa,Toto,1983,Ballad
+68,69,You Dropped A Bomb On Me,Gap Band,1982,Popular
+69,70,Wake Me Up Before You Go-Go,Wham!,1984,Popular
+70,71,It's Raining Men,Weather Girls,1982,Popular
+71,72,Back In Black,AC/DC,1980,Rock
+72,73,Man In The Mirror,Michael Jackson,1987,Ballad
+73,74,Pump Up The Jam,Technotronic Feat. Felly,1989,Popular
+74,75,In Your Eyes,Peter Gabriel,1986,Alternative
+75,76,Uptown Girl,Billy Joel,1983,Popular
+76,77,Dead Man's Party,Oingo Boingo,1985,Popular
+77,78,Paradise City,Guns N' Roses,1989,Rock
+78,79,Dancing In The Dark,Bruce Springsteen,1984,Alternative
+79,80,Let's Groove,"Earth, Wind & Fire",1981,Oldies
+80,81,Conga,Gloria Estefan & Miami Sound Machine,1985,Popular
+81,82,Every Little Thing She Does Is Magic,Police,1981,Popular
+82,83,Could I Have This Dance,Anne Murray,1980,Ballad
+83,84,Under Pressure,Queen & David Bowie,1981,Rock
+84,85,Glory Days,Bruce Springsteen,1985,Popular
+85,86,She's Got A Way,Billy Joel,1982,Oldies
+86,87,Forever Young,Rod Stewart,1988,Alternative
+87,88,Can't Fight This Feeling,REO Speedwagon,1985,Ballad
+88,89,Dancing With Myself,Billy Idol,1981,Rock
+89,90,Just Like Heaven,Cure,1987,Alternative
+90,91,Funkytown,Lipps Inc.,1980,Oldies
+91,92,Walk Like An Egyptian,Bangles,1986,Rock
+92,93,You're The Inspiration,Chicago,1984,Ballad
+93,94,Jump,Van Halen,1984,Rock
+94,95,Tainted Love,Soft Cell,1982,Popular
+95,96,Heaven,Bryan Adams,1985,Oldies
+96,97,Here And Now,Luther Vandross,1989,Ballad
+97,98,Nothin' But A Good Time,Poison,1988,Rock
+98,99,Its Raining Men,Weather Girls,1983,Funk
+99,100,Strokin,,,
+0,1,Electric Slide,Marcia Griffiths,1990,Popular
+1,2,Baby Got Back,Sir Mix-A-Lot,1992,Popular
+2,3,Friends In Low Places,Garth Brooks,1990,Country
+3,4,Cotton Eye Joe,Rednex,1994,Country
+4,5,Macarena,Los Del Rio,1995,Popular
+5,6,Ice Ice Baby,Vanilla Ice,1990,Popular
+6,7,I Don't Want To Miss A Thing,Aerosmith,1998,Ballad
+7,8,Amazed,Lonestar,1999,Ballad
+8,9,Jump Around,House Of Pain,1992,Popular
+9,10,It's Your Love,Tim McGraw with Faith Hill,1997,Country
+10,11,My Best Friend,Tim McGraw,1999,Country
+11,12,Boot Scootin' Boogie,Brooks & Dunn,1991,Country
+12,13,This Is How We Do It,Montell Jordan,1995,Popular
+13,14,All My Life,K-Ci & JoJo,1997,Ballad
+14,15,When You Say Nothing At All,Alison Krauss,1995,Country
+15,16,Tootsee Roll,69 Boyz,1994,Popular
+16,17,Gettin' Jiggy Wit It,Will Smith,1997,Popular
+17,18,I Cross My Heart,George Strait,1992,Country
+18,19,U Can't Touch This,M.C. Hammer,1990,Popular
+19,20,(Everything I Do) I Do It For You,Bryan Adams,1991,Ballad
+20,21,Mambo No. 5 (A Little Bit Of...),Lou Bega,1999,Popular
+21,22,Wannabe,Spice Girls,1996,Popular
+22,23,Unforgettable,Nat King Cole & Natalie Cole,1991,Ballad
+23,24,Grease Megamix,John Travolta & Olivia Newton-John,1996,Popular
+24,25,Can You Feel The Love Tonight,Elton John,1994,Ballad
+25,26,From This Moment On,Shania Twain,1998,Country
+26,27,Gonna Make You Sweat (Everybody Dance Now),C+C Music Factory Featuring Freedom Williams,1990,Popular
+27,28,Let's Get Married,Jagged Edge,1999,R&B
+28,29,The Humpty Dance,Digital Underground,1990,Popular
+29,30,Let Me Clear My Throat,DJ Kool,1997,Hip Hop
+30,31,Poison,Bell Biv DeVoe,1990,Popular
+31,32,No Diggity,Blackstreet Featuring Dr. Dre,1996,R&B
+32,33,Everybody (Backstreet's Back),Backstreet Boys,1998,Popular
+33,34,I'll Be,Edwin McCain,1998,Alternative
+34,35,The Dance,Garth Brooks,1995,Country
+35,36,Hypnotize,Notorious B.I.G.,1997,Popular
+36,37,Have I Told You Lately,Rod Stewart,1993,Alternative
+37,38,I'm Gonna Be (500 Miles),Proclaimers,1993,Popular
+38,39,Truly Madly Deeply,Savage Garden,1997,Ballad
+39,40,Crash Into Me,Dave Matthews Band,1996,Popular
+40,41,C'mon 'N Ride It (The Train),Quad City DJ's,1996,Popular
+41,42,Because You Loved Me,Celine Dion,1996,Popular
+42,43,Wonderwall,Oasis,1995,Alternative
+43,44,California Love,2Pac Featuring Dr. Dre & Roger Troutman,1996,Alternative
+44,45,Good Vibrations,Marky Mark & The Funky Bunch Featuring Loletta Holloway,1991,Rap
+45,46,Butterfly Kisses,Bob Carlisle,1997,Ballad
+46,47,Jump On It,Sir Mix-A-Lot,1996,Rap
+47,48,What Is Love,Haddaway,1993,Alternative
+48,49,She Thinks My Tractor's Sexy,Kenny Chesney,1999,Country
+49,50,Tootsie Roll,69 Boyz,1994,Popular
+50,51,Apache,Sugarhill Gang,1995,Popular
+51,52,I Want It That Way,Backstreet Boys,1999,Alternative
+52,53,Shoop,Salt-N-Pepa,1993,Hip Hop
+53,54,I Will Always Love You,Whitney Houston,1992,Popular
+54,55,"I Like it, I Love it",Tim McGraw,1995,Country
+55,56,Iris,Goo Goo Dolls,1998,Alternative
+56,57,Thunderstruck,AC/DC,1990,Rock
+57,58,You're Still The One,Shania Twain,1998,Country
+58,59,Hot Hot Hot,Buster Poindexter,1995,Popular
+59,60,Mo Money Mo Problems,Notorious B.I.G. Featuring Puff Daddy & Ma$e,1997,Hip Hop
+60,61,I'm Too Sexy,Right Said Fred,1991,Popular
+61,62,Ain't Going Down (Til The Sun Comes Up),Garth Brooks,1993,Country
+62,63,Only Wanna Be With You,Hootie & The Blowfish,1995,Alternative
+63,64,Me And You,Kenny Chesney,1996,Country
+64,65,Groove Is In The Heart,Deee-Lite,1990,Popular
+65,66,What I Got,Sublime,1996,Alternative
+66,67,Time Of Your Life (Good Riddance),Green Day,1998,Alternative
+67,68,Achy Breaky Heart,Billy Ray Cyrus,1992,Country
+68,69,Whoomp! (There It Is),Tag Team,1994,Popular
+69,70,To Make You Feel My Love,Garth Brooks,1998,Country
+70,71,I Swear,All-4-One,1994,Ballad
+71,72,Back That Thang Up,Juvenile,1999,
+72,73,Now That We Found Love,Heavy D & The Boyz,1991,Hip Hop
+73,74,Man! I Feel Like A Woman!,Shania Twain,1999,Country
+74,75,Smooth,Santana Featuring Rob Thomas,1999,Popular
+75,76,Hold On,Wilson Phillips,1990,Popular
+76,77,Motownphilly,Boyz II Men,1991,R&B
+77,78,Jump,Kris Kross,1992,Hip Hop
+78,79,I Swear,John Michael Montgomery,1993,Country
+79,80,Livin' La Vida Loca,Ricky Martin,1999,Latin
+80,81,Watermelon Crawl,Tracy Byrd,1994,Country
+81,82,Back At One,Brian McKnight,1999,R&B
+82,83,Check Yes Or No,George Strait,1995,Country
+83,84,Dust On The Bottle,David Lee Murphy,1995,Country
+84,85,Neon Moon,Brooks & Dunn,1992,Country
+85,86,You Had Me From Hello,Kenny Chesney,1999,Country
+86,87,Vogue,Madonna,1990,Popular
+87,88,Santeria,Sublime,1997,Alternative
+88,89,Gin And Juice,Snoop Doggy Dogg,1994,Rap
+89,90,Any Man Of Mine,Shania Twain,1995,Country
+90,91,Can't Help Falling In Love,UB40,1993,Ballad
+91,92,Strawberry Wine,Deana Carter,1996,Country
+92,93,Jump Jive An' Wail,Brian Setzer Orchestra,1998,Popular
+93,94,Big Poppa,Notorious B.I.G.,1995,Hip Hop
+94,95,I Could Not Ask For More,Edwin McCain,1999,Ballad
+95,96,Barbie Girl,Aqua,1997,Popular
+96,97,Whatta Man,Salt 'N Pepa,1994,Hip Hop
+97,98,I Like It I Love It,Tim McGraw,1995,Country
+98,99,Somewhere over the Rainbow,Israel Kamakawiwow'ole,1993,Easy Listening
+99,100,Regulate,Warren G. & Nate Dogg,1994,Alternative
+0,1,Cupid Shuffle,Cupid,2007,Popular
+1,2,Cha-Cha Slide,Mr. C The Slide Man,2000,Popular
+2,3,I Gotta Feeling,Black Eyed Peas,2009,Popular
+3,4,Single Ladies (Put A Ring On It),Beyonce,2008,Popular
+4,5,Wobble,V.I.C.,2008,Popular
+5,6,Yeah,Usher,2004,Popular
+6,7,SexyBack,Justin Timberlake,2006,Popular
+7,8,Just Dance,Lady Gaga Featuring Colby O'Donis,2008,Popular
+8,9,Hey Ya!,Outkast,2003,Popular
+9,10,Low,Flo Rida Featuring T-Pain,2007,Popular
+10,11,I'm Yours,Jason Mraz,2008,Popular
+11,12,Shots,LMFAO Feat. Lil Jon,2009,Popular
+12,13,Get Low,Lil' Jon & East Side Boyz Feat. Ying Yang Twins,2003,Popular
+13,14,Everything,Michael Buble,2007,Ballad
+14,15,Party In The U.S.A.,Miley Cyrus,2009,Popular
+15,16,Forever,Chris Brown,2008,Popular
+16,17,Save A Horse (Ride A Cowboy),Big & Rich,2004,Country
+17,18,Lucky,Jason Mraz & Colbie Caillat,2008,Ballad
+18,19,Bless The Broken Road,Rascal Flatts,2004,Ballad
+19,20,Tik Tok,Ke$ha,2009,Popular
+20,21,Let's Get It Started,Black Eyed Peas,2003,Popular
+21,22,Poker Face,Lady Gaga,2009,Popular
+22,23,Better Together,Jack Johnson,2005,Easy Listening
+23,24,Please Don't Stop The Music,Rihanna,2007,Popular
+24,25,Crazy In Love,Beyonce Featuring Jay-Z,2003,Popular
+25,26,Boom Boom Pow,Black Eyed Peas,2009,Popular
+26,27,Come Away With Me,Norah Jones,2003,Ballad
+27,28,Yeah!,Usher Featuring Lil Jon & Ludacris,2004,Popular
+28,29,Hot In Herre,Nelly,2002,Popular
+29,30,Then,Brad Paisley,2009,Country
+30,31,Right Round,Flo Rida,2009,Popular
+31,32,My Wish,Rascal Flatts,2006,Ballad
+32,33,Hey Soul Sister,Train,2009,Popular
+33,34,All Summer Long,Kid Rock,2008,Rock
+34,35,Gold Digger,Kanye West Featuring Jamie Foxx,2005,Popular
+35,36,In Da Club,50 Cent,2003,Popular
+36,37,One More Time,Daft Punk,2001,Alternative
+37,38,Rock Your Body,Justin Timberlake,2003,Popular
+38,39,Chicken Fried,Zac Brown Band,2008,Popular
+39,40,Bad Romance,Lady Gaga,2009,Popular
+40,41,I Loved Her First,Heartland,2006,Country
+41,42,Hips Don't Lie,Shakira Feat. Wyclef Jean,2006,Popular
+42,43,You And Me,Lifehouse,2005,Ballad
+43,44,Love Story,Taylor Swift,2008,Country
+44,45,Get The Party Started,Pink,2001,Popular
+45,46,I Know You Want Me (Calle Ocho),Pitbull,2009,Popular
+46,47,Down,Jay Sean Featuring Lil Wayne,2009,Popular
+47,48,Bye Bye Bye,N Sync,2000,Dance
+48,49,My Humps,Black Eyed Peas,2005,Popular
+49,50,Empire State Of Mind,Jay-Z Featuring Alicia Keys,2009,Popular
+50,51,Say Hey (I Love You),Michael Franti & Spearhead,2008,Popular
+51,52,Whatever It Is,Zac Brown Band,2009,Country
+52,53,Making Memories Of Us,Keith Urban,2007,Country
+53,54,Crank Dat (Soulja Boy),Soulja Boy,2007,Popular
+54,55,Lost In This Moment,Big & Rich,2007,Ballad
+55,56,Imma Be,Black Eyed Peas,2009,Popular
+56,57,Evacuate The Dancefloor,Cascada,2009,Popular
+57,58,You Are The Best Thing,Ray Lamontagne,2008,Easy Listening
+58,59,Need You Now,Lady Antebellum,2009,Ballad
+59,60,Wagon Wheel,Old Crow Medicine Show,2004,Country
+60,61,Life Is A Highway,Rascal Flatts,2006,Popular
+61,62,Over The Rainbow,"Israel Kamakawiwo'ole ""Iz""",2003,Popular
+62,63,My Little Girl,Tim McGraw,2006,Country
+63,64,Telephone,Lady Gaga Feat. Beyonce,2009,Popular
+64,65,The Way I Are,Timbaland,2007,Popular
+65,66,Fire Burning,Sean Kingston,2009,Popular
+66,67,Everytime We Touch,Cascada,2006,Popular
+67,68,You And Me,Dave Matthews Band,2009,Ballad
+68,69,Whatever You Like,T.I.,2008,Popular
+69,70,Accidentally In Love,Counting Crows,2004,Popular
+70,71,Umbrella,Rihanna Feat. Jay-Z,2007,Popular
+71,72,Beautiful Day,U2,2000,Rock
+72,73,I Hope You Dance,Lee Ann Womack,2000,Ballad
+73,74,Blame It,Jamie Foxx Feat. T-Pain,2009,Popular
+74,75,Suavemente,Elvis Crespo,2005,Latin
+75,76,Clumsy,Fergie,2006,Popular
+76,77,Ignition,R. Kelly,2003,R&B
+77,78,"1, 2, 3, 4",Plain White T's,2008,Rock
+78,79,Why Don't We Just Dance,Josh Turner,2009,Country
+79,80,Grow Old With You,Adam Sandler,2003,Popular
+80,81,Cyclone,Baby Bash Featuring T-Pain,2007,Popular
+81,82,Haven't Met You Yet,Michael Bublé,2009,Popular
+82,83,Live Your Life,T.I. Featuring Rihanna,2008,Popular
+83,84,Drop It Low,Ester Dean Featuring Chris Brown,2009,Popular
+84,85,Hot N Cold,Katy Perry,2008,Popular
+85,86,Sway,Michael Bublé,2004,Popular
+86,87,Say Aah,Trey Songz Feat. Fabolous,2009,Popular
+87,88,It's Five O'Clock Somewhere,Alan Jackson & Jimmy Buffett,2003,Country
+88,89,Get Me Bodied,Beyonce,2007,Popular
+89,90,Toes,Zac Brown Band,2009,Country
+90,91,Viva La Vida,Coldplay,2008,Popular
+91,92,Disturbia,Rihanna,2008,Popular
+92,93,Toxic,Britney Spears,2004,Popular
+93,94,Two Is Better Than One,Boys Like Girls Feat. Taylor Swift,2009,Ballad
+94,95,Paper Planes,M.I.A.,2008,Popular
+95,96,The Way You Move,Outkast Featuring Sleepy Brown,2003,Hip Hop
+96,97,Big Green Tractor,Jason Aldean,2009,Country
+97,98,Remember When,Alan Jackson,2001,Ballad
+98,99,Shake It,Metro Station,2008,Popular
+99,100,1 2 Step,Ciara Feat. Missy Elliott,2004,R&B
